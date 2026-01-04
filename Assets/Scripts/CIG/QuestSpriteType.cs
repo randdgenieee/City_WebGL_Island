@@ -1,0 +1,33 @@
+namespace CIG
+{
+	public enum QuestSpriteType
+	{
+		PlayTime,
+		Upgrades,
+		Population,
+		Speedup,
+		Facilities,
+		FacilitiesGold,
+		Employees,
+		AllDailyQuests,
+		UpgradesMax,
+		Expansion,
+		Cash,
+		Gold,
+		SilverKeys,
+		GoldKeys,
+		FacilitiesGrass,
+		FacilitiesBeach,
+		FacilitiesWater,
+		FacilitiesSand,
+		FacilitiesRock,
+		FacilitiesMud,
+		FacilitiesSnow,
+		FacilitiesCommercial,
+		FacilitiesResidential,
+		FacilitiesCommunity,
+		FacilitiesDecoration,
+		Roads,
+		FishingEvent
+	}
+}

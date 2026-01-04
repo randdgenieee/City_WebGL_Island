@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: c969487a21054eb18cf68260f909c574
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snowLargeHouse06_f001
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -141.0065, y: -71.53806}
+      - {x: -141.0065, y: -40.53806}
+      - {x: -38.00645, y: -120.5381}
+    - - {x: -109.0065, y: 16.46194}
+      - {x: -38.00645, y: -120.5381}
+      - {x: -141.0065, y: -40.53806}
+    - - {x: -64.00645, y: 96.46194}
+      - {x: -38.00645, y: -120.5381}
+      - {x: -109.0065, y: 16.46194}
+    - - {x: -37.00645, y: 90.46194}
+      - {x: -38.00645, y: -120.5381}
+      - {x: -64.00645, y: 96.46194}
+    - - {x: -13.00645, y: -125.5381}
+      - {x: -38.00645, y: -120.5381}
+      - {x: -37.00645, y: 90.46194}
+    - - {x: -14.00645, y: 122.4619}
+      - {x: -13.00645, y: -125.5381}
+      - {x: -37.00645, y: 90.46194}
+    - - {x: -9.006454, y: 125.4619}
+      - {x: -13.00645, y: -125.5381}
+      - {x: -14.00645, y: 122.4619}
+    - - {x: 20.99355, y: -125.5381}
+      - {x: -13.00645, y: -125.5381}
+      - {x: -9.006454, y: 125.4619}
+    - - {x: 50.99355, y: 125.4619}
+      - {x: 20.99355, y: -125.5381}
+      - {x: -9.006454, y: 125.4619}
+    - - {x: 82.99355, y: -96.53806}
+      - {x: 20.99355, y: -125.5381}
+      - {x: 50.99355, y: 125.4619}
+    - - {x: 117.9935, y: 56.46194}
+      - {x: 82.99355, y: -96.53806}
+      - {x: 50.99355, y: 125.4619}
+    - - {x: 131.9935, y: -70.53806}
+      - {x: 82.99355, y: -96.53806}
+      - {x: 117.9935, y: 56.46194}
+    - - {x: 124.9935, y: -2.538055}
+      - {x: 131.9935, y: -70.53806}
+      - {x: 117.9935, y: 56.46194}
+    - - {x: 130.9935, y: -6.538055}
+      - {x: 131.9935, y: -70.53806}
+      - {x: 124.9935, y: -2.538055}
+    - - {x: 140.9935, y: -25.53806}
+      - {x: 131.9935, y: -70.53806}
+      - {x: 130.9935, y: -6.538055}
+    - - {x: 140.9935, y: -64.53806}
+      - {x: 131.9935, y: -70.53806}
+      - {x: 140.9935, y: -25.53806}
+    physicsShape:
+    - - {x: 90.99355, y: -71.53806}
+      - {x: 126.9935, y: -62.53806}
+      - {x: 140.9935, y: -51.53806}
+      - {x: 140.9935, y: -28.53806}
+      - {x: 132.9935, y: -12.53806}
+      - {x: 124.9935, y: -4.538055}
+      - {x: 113.9935, y: 4.461945}
+      - {x: 105.9935, y: 5.461945}
+      - {x: 110.9935, y: 45.46194}
+      - {x: 114.9935, y: 49.46194}
+      - {x: 115.9935, y: 56.46194}
+      - {x: 102.9935, y: 66.46194}
+      - {x: 69.99355, y: 88.46194}
+      - {x: 67.99355, y: 97.46194}
+      - {x: 55.99355, y: 103.4619}
+      - {x: 49.99355, y: 113.4619}
+      - {x: 42.99355, y: 121.4619}
+      - {x: 38.99355, y: 121.4619}
+      - {x: 19.99355, y: 112.4619}
+      - {x: 20.99355, y: 118.4619}
+      - {x: 8.993546, y: 125.4619}
+      - {x: -3.006454, y: 125.4619}
+      - {x: -13.00645, y: 121.4619}
+      - {x: -10.00645, y: 107.4619}
+      - {x: -33.00645, y: 91.46194}
+      - {x: -53.00645, y: 86.46194}
+      - {x: -61.00645, y: 95.46194}
+      - {x: -70.00645, y: 85.46194}
+      - {x: -73.00645, y: 52.46194}
+      - {x: -79.00645, y: 56.46194}
+      - {x: -86.00645, y: 48.46194}
+      - {x: -94.00645, y: 20.46194}
+      - {x: -101.0065, y: 14.46194}
+      - {x: -100.0065, y: 6.461945}
+      - {x: -133.0065, y: -26.53806}
+      - {x: -139.0065, y: -44.53806}
+      - {x: -139.0065, y: -57.53806}
+      - {x: -131.0065, y: -69.53806}
+      - {x: -114.0065, y: -75.53806}
+      - {x: -93.00645, y: -81.53806}
+      - {x: -54.00645, y: -100.5381}
+      - {x: -52.00645, y: -104.5381}
+      - {x: -48.00645, y: -108.5381}
+      - {x: -29.00645, y: -107.5381}
+      - {x: -13.00645, y: -117.5381}
+      - {x: -12.00645, y: -117.5381}
+      - {x: 12.99355, y: -115.5381}
+      - {x: 24.99355, y: -112.5381}
+      - {x: 61.99355, y: -93.53806}
+      - {x: 81.99355, y: -79.53806}
+      - {x: -51.00645, y: 24.46194}
+      - {x: -52.00645, y: 25.46194}
+      - {x: -51.00645, y: 24.46194}
+      - {x: -49.00645, y: 24.46194}
+    bones: []
+    spriteID: 0b6b57340661a3a4f9ab678f13e2bc04
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

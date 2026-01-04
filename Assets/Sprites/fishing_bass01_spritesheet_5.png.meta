@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 0d2269b6c3334d649432ce1f4d199cef
+TextureImporter:
+  fileIDToRecycleName:
+    21300094: fishing_bass01_spritesheet_5
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -28.9876, y: -17.52468}
+      - {x: -28.9876, y: 36.47532}
+      - {x: -24.9876, y: -43.52468}
+    - - {x: -17.9876, y: 48.47532}
+      - {x: -24.9876, y: -43.52468}
+      - {x: -28.9876, y: 36.47532}
+    - - {x: -19.9876, y: -48.52468}
+      - {x: -24.9876, y: -43.52468}
+      - {x: -17.9876, y: 48.47532}
+    - - {x: 7.012402, y: -48.52468}
+      - {x: -19.9876, y: -48.52468}
+      - {x: -17.9876, y: 48.47532}
+    - - {x: 9.012402, y: 48.47532}
+      - {x: 7.012402, y: -48.52468}
+      - {x: -17.9876, y: 48.47532}
+    - - {x: 8.012402, y: -47.52468}
+      - {x: 7.012402, y: -48.52468}
+      - {x: 9.012402, y: 48.47532}
+    - - {x: 29.0124, y: 2.475323}
+      - {x: 8.012402, y: -47.52468}
+      - {x: 9.012402, y: 48.47532}
+    - - {x: 24.0124, y: 41.47532}
+      - {x: 29.0124, y: 2.475323}
+      - {x: 9.012402, y: 48.47532}
+    - - {x: 29.0124, y: 24.47532}
+      - {x: 29.0124, y: 2.475323}
+      - {x: 24.0124, y: 41.47532}
+    physicsShape:
+    - - {x: 29.0124, y: 3.475323}
+      - {x: 29.0124, y: 13.47532}
+      - {x: 25.0124, y: 21.47532}
+      - {x: 7.012401, y: 48.47532}
+      - {x: -1.987598, y: 48.47532}
+      - {x: -5.987598, y: 46.47532}
+      - {x: -16.9876, y: 32.47532}
+      - {x: -22.9876, y: 29.47532}
+      - {x: -27.9876, y: 25.47532}
+      - {x: -27.9876, y: 20.47532}
+      - {x: -25.9876, y: 15.47532}
+      - {x: -15.9876, y: 5.475323}
+      - {x: -13.9876, y: -1.524677}
+      - {x: -10.9876, y: -10.52468}
+      - {x: -16.9876, y: -19.52468}
+      - {x: -14.9876, y: -27.52468}
+      - {x: -17.9876, y: -44.52468}
+      - {x: -6.987598, y: -48.52468}
+      - {x: 3.012402, y: -48.52468}
+      - {x: 11.0124, y: -33.52468}
+      - {x: 15.0124, y: -12.52468}
+      - {x: 22.0124, y: 1.475323}
+    bones: []
+    spriteID: b877bb9943a3da041b714382d6f2eadf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+using System;
+
+namespace CIG
+{
+	[Flags]
+	public enum Direction
+	{
+		None = 0x0,
+		NE = 0x1,
+		SE = 0x2,
+		SW = 0x4,
+		NW = 0x8,
+		SE_NE = 0x3,
+		SW_NE = 0x5,
+		SE_SW = 0x6,
+		NW_NE = 0x9,
+		NW_SE = 0xA,
+		NW_SW = 0xC,
+		SW_SE_NE = 0x7,
+		NW_SE_NE = 0xB,
+		NW_SW_NE = 0xD,
+		NW_SW_SE = 0xE,
+		NW_SW_SE_NE = 0xF
+	}
+}

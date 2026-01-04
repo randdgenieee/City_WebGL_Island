@@ -1,0 +1,31 @@
+namespace CIG
+{
+	public enum CurrenciesSpentReason
+	{
+		Unknown,
+		SpeedupUpgrade,
+		SpeedupBuild,
+		SpeedupAirship,
+		SpeedupDemolish,
+		GoldBuilding,
+		GoldBuildingInstant,
+		CashBuilding,
+		CashBuildingInstant,
+		Expansion,
+		CashExchange,
+		CraneHire,
+		BuildingUpgrade,
+		BuildingUpgradeInstant,
+		IslandUnlock,
+		CurrencyConversion,
+		BuildingWarehouse,
+		KeyDeals,
+		OneTimeOffer,
+		TreasureChest,
+		WheelOfFortune,
+		SpecialQuest,
+		AirshipSend,
+		CraneOffer,
+		CheatMenu
+	}
+}

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_RootGameObject: {fileID: 1667947979005774}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1667947979005774
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4362327754824148}
+  - component: {fileID: 212845715657750272}
+  - component: {fileID: 114266411071219404}
+  - component: {fileID: 114519159308886096}
+  m_Layer: 10
+  m_Name: Road
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4362327754824148
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667947979005774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &212845715657750272
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667947979005774}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 640591db111833d44a216afe8231c4b8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -342715911
+  m_SortingLayer: -1
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 4b2dfc9974514e88b4ae774ad2936dbf, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 100, y: 50}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+--- !u!114 &114266411071219404
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667947979005774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b80344596c719438ceb5a0d6457b6c, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _canHide: 0
+  _orderOffset: -15
+  _canShowOnReadOnlyGrid: 1
+  _gridTileSpriteRenderer: {fileID: 114519159308886096}
+  _roadType: 1
+  _interactionMask: 1
+  _sprites:
+  - {fileID: 21300000, guid: 4b2dfc9974514e88b4ae774ad2936dbf, type: 3}
+  - {fileID: 21300000, guid: 31b142c6fae9410d9f96dfc549c5c25d, type: 3}
+  - {fileID: 21300000, guid: 98c75cc695a048d8857bfa241399f6d7, type: 3}
+  - {fileID: 21300000, guid: 9fe73d2659f34569b4d02578078c7c84, type: 3}
+  - {fileID: 21300000, guid: 4b99deb076ba413f958c878b55ecb7b1, type: 3}
+  - {fileID: 21300000, guid: 94c80f76e4c44372b78093734a04787e, type: 3}
+  - {fileID: 21300000, guid: 3b6825864f4f46788806e3cb8c89f3ca, type: 3}
+  - {fileID: 21300000, guid: faa301e6d49f4b8c9e186223f7bce292, type: 3}
+  - {fileID: 21300000, guid: e40bd32c3a264569bf26863060ac5fb0, type: 3}
+  - {fileID: 21300000, guid: d50b2807fd794c3c887f2ca1f9037826, type: 3}
+  - {fileID: 21300000, guid: 151192df8c1e485493f76be93a7223a8, type: 3}
+  - {fileID: 21300000, guid: b5caa2c25c784f1399d8f2e8abe51890, type: 3}
+  - {fileID: 21300000, guid: c2d77a5bf8a64a018a2112dd324b51ab, type: 3}
+  - {fileID: 21300000, guid: 2f1eec32d68e47559c7d8b6c42092691, type: 3}
+  - {fileID: 21300000, guid: a4a80aef3e884329bbb8da66fc6b27b9, type: 3}
+  - {fileID: 21300000, guid: e2447ef26ba24b7ca95019e15ee5b34b, type: 3}
+  _foregroundRenderer: {fileID: 0}
+  _foregroundSprites: []
+--- !u!114 &114519159308886096
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667947979005774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafd4f19e9327a546be3c36f35632bcd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _spriteRenderer: {fileID: 212845715657750272}
+  _animatedSprite: {fileID: 0}
+  _childSpriteRenderers: []

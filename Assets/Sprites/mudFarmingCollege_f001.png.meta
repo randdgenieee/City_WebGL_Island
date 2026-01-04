@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 94b299e71c314006a8c56af117d1f9c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300106: mudFarmingCollege_f001
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -150, y: -28.5}
+      - {x: -150, y: 32.5}
+      - {x: -7, y: -90.5}
+    - - {x: -121, y: 86.5}
+      - {x: -7, y: -90.5}
+      - {x: -150, y: 32.5}
+    - - {x: -114, y: 90.5}
+      - {x: -7, y: -90.5}
+      - {x: -121, y: 86.5}
+    - - {x: -90, y: 90.5}
+      - {x: -7, y: -90.5}
+      - {x: -114, y: 90.5}
+    - - {x: -59, y: 58.5}
+      - {x: -7, y: -90.5}
+      - {x: -90, y: 90.5}
+    - - {x: -34, y: 79.5}
+      - {x: -7, y: -90.5}
+      - {x: -59, y: 58.5}
+    - - {x: 5, y: 88.5}
+      - {x: -7, y: -90.5}
+      - {x: -34, y: 79.5}
+    - - {x: 19, y: -90.5}
+      - {x: -7, y: -90.5}
+      - {x: 5, y: 88.5}
+    - - {x: 115, y: 34.5}
+      - {x: 19, y: -90.5}
+      - {x: 5, y: 88.5}
+    - - {x: 150, y: -20.5}
+      - {x: 19, y: -90.5}
+      - {x: 115, y: 34.5}
+    - - {x: 136, y: 33.5}
+      - {x: 150, y: -20.5}
+      - {x: 115, y: 34.5}
+    - - {x: 150, y: 14.5}
+      - {x: 150, y: -20.5}
+      - {x: 136, y: 33.5}
+    physicsShape:
+    - - {x: 145, y: 13.5}
+      - {x: 129, y: 32.5}
+      - {x: 116, y: 28.5}
+      - {x: 4, y: 84.5}
+      - {x: -6, y: 83.5}
+      - {x: -17, y: 78.5}
+      - {x: -32, y: 78.5}
+      - {x: -38, y: 65.5}
+      - {x: -52, y: 61.5}
+      - {x: -60, y: 54.5}
+      - {x: -87, y: 68.5}
+      - {x: -90, y: 68.5}
+      - {x: -96, y: 87.5}
+      - {x: -100, y: 90.5}
+      - {x: -110, y: 90.5}
+      - {x: -118, y: 86.5}
+      - {x: -115, y: 65.5}
+      - {x: -120, y: 50.5}
+      - {x: -142, y: 32.5}
+      - {x: -140, y: 24.5}
+      - {x: -144, y: 13.5}
+      - {x: -150, y: 9.5}
+      - {x: -150, y: -17.5}
+      - {x: -100, y: -43.5}
+      - {x: -90, y: -48.5}
+      - {x: -5, y: -90.5}
+      - {x: 7, y: -90.5}
+      - {x: 102, y: -43.5}
+      - {x: 150, y: -17.5}
+      - {x: 150, y: 8.5}
+    bones: []
+    spriteID: 6ee533c846b6b4443804efff77ca9fe8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

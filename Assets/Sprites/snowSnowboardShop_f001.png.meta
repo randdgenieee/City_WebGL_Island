@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 8af3d9098ba54b789b1cfde34937fb74
+TextureImporter:
+  fileIDToRecycleName:
+    21300322: snowSnowboardShop_f001
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -100, y: -69}
+      - {x: -100, y: 42}
+      - {x: 100, y: -69}
+    - - {x: -72, y: 46}
+      - {x: 100, y: -69}
+      - {x: -100, y: 42}
+    - - {x: -71, y: 58}
+      - {x: 100, y: -69}
+      - {x: -72, y: 46}
+    - - {x: -78, y: 68}
+      - {x: -78, y: 69}
+      - {x: -71, y: 58}
+    - - {x: 100, y: 69}
+      - {x: -71, y: 58}
+      - {x: -78, y: 69}
+    - - {x: 100, y: -69}
+      - {x: -71, y: 58}
+      - {x: 100, y: 69}
+    physicsShape:
+    - - {x: 98, y: -22}
+      - {x: 100, y: -19}
+      - {x: 100, y: -2}
+      - {x: 95, y: 18}
+      - {x: 87, y: 33}
+      - {x: 79, y: 26}
+      - {x: 67, y: 42}
+      - {x: 43, y: 65}
+      - {x: 34, y: 69}
+      - {x: 17, y: 69}
+      - {x: 1, y: 62}
+      - {x: -7, y: 69}
+      - {x: -23, y: 64}
+      - {x: -21, y: 59}
+      - {x: -64, y: 38}
+      - {x: -67, y: 31}
+      - {x: -61, y: 25}
+      - {x: -74, y: 2}
+      - {x: -82, y: 2}
+      - {x: -84, y: -2}
+      - {x: -85, y: -15}
+      - {x: -85, y: -21}
+      - {x: -78, y: -28}
+      - {x: -63, y: -40}
+      - {x: -43, y: -51}
+      - {x: -13, y: -62}
+      - {x: -4, y: -60}
+      - {x: -6, y: -47}
+      - {x: -9, y: -43}
+      - {x: -6, y: -46}
+      - {x: -2, y: -47}
+      - {x: -2, y: -63}
+      - {x: -1, y: -65}
+      - {x: 2, y: -65}
+      - {x: 12, y: -60}
+      - {x: 21, y: -49}
+      - {x: 40, y: -49}
+      - {x: 75, y: -35}
+      - {x: -55, y: -23}
+      - {x: -57, y: -21}
+      - {x: -55, y: -21}
+      - {x: -50, y: -25}
+      - {x: -47, y: -25}
+      - {x: -43, y: -28}
+      - {x: -42, y: -27}
+      - {x: -49, y: -30}
+      - {x: -98, y: 34}
+      - {x: -100, y: 24}
+      - {x: -100, y: -13}
+      - {x: -97, y: -20}
+      - {x: -85, y: -20}
+      - {x: -84, y: -16}
+      - {x: -84, y: 34}
+    bones: []
+    spriteID: 446e2683fecebcf43ad0e504548ef8c1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

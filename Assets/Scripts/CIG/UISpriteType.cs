@@ -1,0 +1,41 @@
+namespace CIG
+{
+	public enum UISpriteType
+	{
+		GameIcon = 0,
+		FiveStarIcon = 1,
+		Crane = 2,
+		RedCross = 3,
+		LandmarkBuildingBackground = 4,
+		FishingQuestIcon = 5,
+		FishingRodBalloonIcon = 6,
+		VideoRewardIcon = 7,
+		CitizensIcon = 8,
+		JobsIcon = 9,
+		HappinessIcon = 10,
+		BalloonIcon = 11,
+		GoldBackgroundOutline = 12,
+		LandmarkBackgroundOutline = 13,
+		LandmarkBuildingFrame = 14,
+		ExpansionChest = 0xF,
+		DemolishIcon = 0x10,
+		DemolishCancelIcon = 17,
+		WaitIcon = 18,
+		UpgradeIcon = 19,
+		GenericPopupDefaultIconBackground = 20,
+		LevelUp = 21,
+		GoldFrameOutline = 22,
+		LandmarkFrameOutline = 23,
+		WoodenChest = 27,
+		SilverChest = 28,
+		GoldChest = 29,
+		PlatinumChest = 30,
+		Keys = 0x1F,
+		VideoSmallest = 0x20,
+		ExclamationBalloonIcon = 35,
+		CashBalloonIcon = 36,
+		XpBalloonIcon = 37,
+		SilverKeyBalloonIcon = 38,
+		WarehouseSlot = 39
+	}
+}
